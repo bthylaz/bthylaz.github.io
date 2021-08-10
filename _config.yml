@@ -104,6 +104,7 @@ theme: butterfly
 deploy:
   type: git
   repo: fuchen@120.79.134.80:/home/fuchen/blog.git
+  # repo: https://github.com/bthylaz/bthylaz.github.io.git
   branch: master
 
 search:
