@@ -103,8 +103,8 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: fuchen@120.79.134.80:/home/fuchen/blog.git
-  # repo: https://github.com/bthylaz/bthylaz.github.io.git
+  # repo: fuchen@120.79.134.80:/home/fuchen/blog.git
+  repo: https://github.com/bthylaz/bthylaz.github.io.git
   branch: master
 
 search:
